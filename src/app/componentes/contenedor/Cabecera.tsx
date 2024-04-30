@@ -25,17 +25,17 @@ export const Cabecera = () =>{
               <ul className="navbar-nav">
                 <li className="nav-item">
                   <NavLink className="nav-link active" aria-current="page" to="/">
-                    Home
+                    Inicio
                   </NavLink>
                 </li>
                 <li className="nav-item">
                   <NavLink className="nav-link" to="concre">
-                    Features
+                    Concierto
                   </NavLink>
                 </li>
                 <li className="nav-item">
                   <NavLink className="nav-link" to="*">
-                    Pricing
+                    Acerca de
                   </NavLink>
                 </li>
               </ul>
